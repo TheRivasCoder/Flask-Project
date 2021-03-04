@@ -17,6 +17,7 @@ def homepage():
     """View function for Home Page."""
     return "Paws Rescue Center 🐾"
 
+
 @app.route("/about")
 def about():
     """View function for About Page."""
